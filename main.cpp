@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+//newblank
 using namespace std;
 int main(int argc, char** argv) {
     double a,b,c,x,r,t;
